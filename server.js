@@ -8,6 +8,10 @@ const PORT = process.env.PORT || 4000;
 
 app.use(express.static('public'));
 
+app.use((req, res, next) => {
+    console.log(`${req.method} Request Received`)
+})
+
 app.get('/api/quote/:id', (req, res, next) => {
     let ee = getElementById(req.params.id, quotes)
     if (ee) {
