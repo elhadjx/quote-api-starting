@@ -33,3 +33,7 @@ An extra thank you to [Rita Łyczywek](https://www.flynerd.pl/) for this excelle
 ## Contact
 
 Created by [@elhadjx](https://instagram/elhadj.x) - feel free to contact me about the project
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/elhadjx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elhadjx" /></a></p><br><br>
