@@ -6,10 +6,6 @@ A web API, built with Express and Node.js, that stores and serves quotes about c
 
  This is a challenge project set as part of the Codecademy Backend Engineer career path course. It builds upon the skills acquired during the 'Build a backend with Node.js and Express' module of the course.
 
-## Screenshot
-
-![Screenshot of tech code generator GUI](Screenshot.png)
-
 ## Technologies
 
 * Node and Node Package Manager
