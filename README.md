@@ -1,4 +1,4 @@
-# Tech Quote Generator
+# Quote Api Starting
 
 A web API, built with Express and Node.js, that stores and serves quotes about computers, coding and technology.
 
